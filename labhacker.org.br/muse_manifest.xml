@@ -1,0 +1,70 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="labhacker.org.br" resolutions="1x" timestamp="1456763971007">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-mestre.css" crc="3827296210" ref="projetos:index:sobre:ludoteca:contato"/>
+    <file name="projetos.css" crc="515412238" ref="projetos"/>
+    <file name="index.css" crc="4051441461" ref="index"/>
+    <file name="sobre.css" crc="97431142" ref="sobre"/>
+    <file name="ludoteca.css" crc="4007250983" ref="ludoteca"/>
+    <file name="contato.css" crc="325583446" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="museutils.js" crc="4190794036" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:sobre:projetos:ludoteca"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="sobre:projetos:ludoteca"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-svg.png" crc="182859095" seo="true" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="home-p.png" crc="535953232" ref="index"/>
+    <file name="padraograf.png" crc="337249623" ref="index"/>
+    <file name="padrao.png" crc="4082089281" seo="true" ref="index"/>
+    <file name="onb-1-crop-u298.jpg" crc="234829936" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="onb-2-crop-u554.jpg" crc="3825232240" ref="index"/>
+    <file name="onb-20-crop-u581.jpg" crc="203839959" ref="index"/>
+    <file name="onb-21-crop-u590.jpg" crc="368883130" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="politica.png" crc="278749878" seo="true" ref="index"/>
+    <file name="software.png" crc="471341874" seo="true" ref="index"/>
+    <file name="cultura.png" crc="182298134" seo="true" ref="index"/>
+    <file name="git-icon1.png" crc="3765952124" ref="index"/>
+    <file name="git-icon2.png" crc="3847855174" ref="index"/>
+    <file name="face-icon1.png" crc="3929517291" ref="index"/>
+    <file name="face-icon2.png" crc="8774263" ref="index"/>
+    <file name="inta-icon1.png" crc="234114824" ref="index"/>
+    <file name="insta-icon2.png" crc="100400353" ref="index"/>
+    <file name="regua.png" crc="423166120" seo="true" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="lab1.jpg" crc="334681336" ref="sobre"/>
+    <file name="1.png" crc="4114396038" ref="sobre:projetos:ludoteca"/>
+    <file name="2.png" crc="309364090" ref="sobre"/>
+    <file name="3.png" crc="215410695" ref="sobre"/>
+    <file name="politica-u694-fr.png" crc="363929257" ref="sobre"/>
+    <file name="software-u693-fr.png" crc="86194732" ref="sobre"/>
+    <file name="cultura-u692-fr.png" crc="382952787" ref="sobre"/>
+    <file name="16693648915_c546addb03_k.jpg" crc="412231780" ref="projetos"/>
+    <file name="12.png" crc="4157304606" ref="projetos:ludoteca"/>
+    <file name="projetos-p.png" crc="3848868609" ref="projetos:ludoteca"/>
+    <file name="32.png" crc="4040727473" ref="projetos:ludoteca"/>
+    <file name="5.png" crc="3992869585" ref="projetos:ludoteca"/>
+    <file name="6.png" crc="3835602272" ref="projetos:ludoteca"/>
+    <file name="7.png" crc="3969028794" ref="projetos:ludoteca"/>
+    <file name="8.png" crc="3775765237" ref="projetos:ludoteca"/>
+    <file name="9.png" crc="64956841" ref="projetos:ludoteca"/>
+    <file name="foto2.jpg" crc="312703976" ref="ludoteca"/>
+  </folder>
+  <file name="index.html" crc="42326528" seo="true" mt="1454671500195" redirect="true"/>
+  <file name="sobre.html" crc="250237158" seo="true" mt="1456763964557" redirect="true"/>
+  <file name="projetos.html" crc="4081218770" seo="true" mt="1454671500195" redirect="true"/>
+  <file name="ludoteca.html" crc="3954887160" seo="true" mt="1456763912012" redirect="true"/>
+  <file name="contato.html" crc="298332082" seo="true" mt="1454671500195" redirect="true"/>
+</manifest>

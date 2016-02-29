@@ -1,0 +1,206 @@
+#menuu621
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../images/home-p.png") no-repeat center top;
+}
+
+#u615,#u644
+{
+	background-color: #000000;
+}
+
+#u644:hover
+{
+	background-color: #E3D46D;
+}
+
+#u646-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u625
+{
+	background-color: #000000;
+}
+
+#u644.MuseMenuActive,#u625:hover
+{
+	background-color: #E3D46D;
+}
+
+#u627-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u630
+{
+	background-color: #000000;
+}
+
+#u625.MuseMenuActive,#u630:hover
+{
+	background-color: #E3D46D;
+}
+
+#u633-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u639
+{
+	background-color: #000000;
+}
+
+#u630.MuseMenuActive,#u639:hover
+{
+	background-color: #E3D46D;
+}
+
+#u642-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u651
+{
+	background-color: #000000;
+}
+
+#u639.MuseMenuActive,#u651:hover
+{
+	background-color: #E3D46D;
+}
+
+#u651.MuseMenuActive
+{
+	background-color: #E3D46D;
+}
+
+#u652-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u644.MuseMenuActive #u646-4 p,#u625.MuseMenuActive #u627-4 p,#u630.MuseMenuActive #u633-4 p,#u639.MuseMenuActive #u642-4 p,#u651.MuseMenuActive #u652-4 p
+{
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u503
+{
+	background-color: #000000;
+}
+
+#u506-4,#u507-4,#u508-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+}
+
+#u509,#u510,#u511
+{
+	background-color: #FFFFFF;
+}
+
+#u517
+{
+	background: transparent url("../images/git-icon1.png") no-repeat center center;
+}
+
+#u517:hover
+{
+	background: transparent url("../images/git-icon2.png") no-repeat center center;
+}
+
+#u519
+{
+	background: transparent url("../images/face-icon1.png") no-repeat center center;
+}
+
+#u519:hover
+{
+	background: transparent url("../images/face-icon2.png") no-repeat center center;
+}
+
+#u519:active
+{
+	background: transparent url("../images/face-icon2.png") no-repeat left top;
+}
+
+#u518
+{
+	background: transparent url("../images/inta-icon1.png") no-repeat center center;
+}
+
+#u518:hover
+{
+	background: transparent url("../images/insta-icon2.png") no-repeat center center;
+}
+
+#u520-11
+{
+	background-color: transparent;
+	font-size: 11px;
+	color: #FFFFFF;
+	line-height: 13px;
+}
+
+#u512-4,#u513-4,#u514-4,#u515-4,#u516-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+}
+
+#u619,#u643,#u622,#u629,#u636,#u650,#u504
+{
+	background-color: transparent;
+}
+
+
