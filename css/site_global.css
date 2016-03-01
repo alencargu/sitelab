@@ -99,25 +99,29 @@ body
 a:link
 {
 	color: #0000FF;
-	text-decoration: underline;
+	font-weight: bold;
+	text-decoration: inherit;
 }
 
 a:visited
 {
 	color: #800080;
-	text-decoration: underline;
+	font-weight: bold;
+	text-decoration: inherit;
 }
 
 a:hover
 {
 	color: #0000FF;
-	text-decoration: underline;
+	font-weight: bold;
+	text-decoration: inherit;
 }
 
 a:active
 {
 	color: #EE0000;
-	text-decoration: underline;
+	font-weight: bold;
+	text-decoration: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -126,6 +130,34 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+.link-lab a:link
+{
+	color: #0000FF;
+	font-weight: bold;
+	text-decoration: inherit;
+}
+
+.link-lab a:visited
+{
+	color: #800080;
+	font-weight: bold;
+	text-decoration: inherit;
+}
+
+.link-lab a:hover
+{
+	color: #0000FF;
+	font-weight: bold;
+	text-decoration: inherit;
+}
+
+.link-lab a:active
+{
+	color: #EE0000;
+	font-weight: bold;
+	text-decoration: inherit;
 }
 
 .normal_text

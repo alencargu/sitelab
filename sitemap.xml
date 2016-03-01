@@ -37,8 +37,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://labhacker.org.br/images/image.jpg</loc>
+    <lastmod>2016-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/local.jpg</loc>
+    <lastmod>2016-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/telefone.jpg</loc>
+    <lastmod>2016-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/email.jpg</loc>
+    <lastmod>2016-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/menino-littlebits.jpg</loc>
+    <lastmod>2016-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://labhacker.org.br/index.html</loc>
-    <lastmod>2016-02-05</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -50,7 +80,7 @@
   </url>
   <url>
     <loc>http://labhacker.org.br/projetos.html</loc>
-    <lastmod>2016-02-05</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -62,7 +92,7 @@
   </url>
   <url>
     <loc>http://labhacker.org.br/contato.html</loc>
-    <lastmod>2016-02-05</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
