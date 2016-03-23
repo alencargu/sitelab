@@ -1,0 +1,200 @@
+#menuu2682
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../../images/home-p.png") no-repeat center top;
+}
+
+#u2679,#u2686
+{
+	background-color: #000000;
+}
+
+#u2686:hover
+{
+	background-color: #E3D46D;
+}
+
+#u2687-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u2700
+{
+	background-color: #000000;
+}
+
+#u2686.MuseMenuActive,#u2700:hover
+{
+	background-color: #E3D46D;
+}
+
+#u2703-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u2707
+{
+	background-color: #000000;
+}
+
+#u2700.MuseMenuActive,#u2707:hover
+{
+	background-color: #E3D46D;
+}
+
+#u2710-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u2691
+{
+	background-color: #000000;
+}
+
+#u2707.MuseMenuActive,#u2691:hover
+{
+	background-color: #E3D46D;
+}
+
+#u2692-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u2712
+{
+	background-color: #000000;
+}
+
+#u2691.MuseMenuActive,#u2712:hover
+{
+	background-color: #E3D46D;
+}
+
+#u2712.MuseMenuActive
+{
+	background-color: #E3D46D;
+}
+
+#u2714-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
+#u2686.MuseMenuActive #u2687-4 p,#u2700.MuseMenuActive #u2703-4 p,#u2707.MuseMenuActive #u2710-4 p,#u2691.MuseMenuActive #u2692-4 p,#u2712.MuseMenuActive #u2714-4 p
+{
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u2668
+{
+	background-color: #000000;
+}
+
+#u2671-4,#u2672-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+}
+
+#u2673,#u2674
+{
+	background-color: #FFFFFF;
+}
+
+#u2675
+{
+	background: transparent url("../../images/git-icon1.png") no-repeat center center;
+}
+
+#u2675:hover
+{
+	background: transparent url("../../images/git-icon2.png") no-repeat center center;
+}
+
+#u2677
+{
+	background: transparent url("../../images/face-icon1.png") no-repeat center center;
+}
+
+#u2677:hover
+{
+	background: transparent url("../../images/face-icon2.png") no-repeat center center;
+}
+
+#u2677:active
+{
+	background: transparent url("../../images/face-icon2.png") no-repeat left top;
+}
+
+#u2676
+{
+	background: transparent url("../../images/inta-icon1.png") no-repeat center center;
+}
+
+#u2676:hover
+{
+	background: transparent url("../../images/insta-icon2.png") no-repeat center center;
+}
+
+#u2678-11
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 11px;
+	line-height: 13px;
+}
+
+#u2680,#u2683,#u2697,#u2704,#u2690,#u2711,#u2669
+{
+	background-color: transparent;
+}
+
+
+
+

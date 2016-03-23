@@ -132,6 +132,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+a,.link-lab a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .link-lab a:link
 {
 	color: #0000FF;

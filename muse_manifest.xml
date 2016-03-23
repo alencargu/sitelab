@@ -1,99 +1,172 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="labhacker.org.br" resolutions="1x" timestamp="1456790784240">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="labhacker.org.br" resolutions="1x" timestamp="1458760644976">
   <folder name="css">
-    <file name="site_global.css" crc="51888787"/>
-    <file name="master_a-mestre.css" crc="3827296210" ref="projetos:index:sobre:ludoteca:contato"/>
-    <file name="projetos.css" crc="310373715" ref="projetos"/>
-    <file name="index.css" crc="99404663" ref="index"/>
-    <file name="sobre.css" crc="97431142" ref="sobre"/>
-    <file name="ludoteca.css" crc="4188871639" ref="ludoteca"/>
-    <file name="contato.css" crc="217054938" ref="contato"/>
+    <file name="site_global.css" crc="3783573091"/>
+    <file name="master_a-mestre.css" crc="195322272" ref="contato:index:ludoteca:projetos:sobre"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="321525473" ref="contato:index:ludoteca:projetos:sobre"/>
+    <file name="contato.css" crc="4041254260" ref="contato"/>
+    <file name="nomq_contato.css" crc="4111940349" ref="contato"/>
+    <file name="index.css" crc="4274825554" ref="index"/>
+    <file name="nomq_index.css" crc="3819326561" ref="index"/>
+    <file name="ludoteca.css" crc="73673596" ref="ludoteca"/>
+    <file name="nomq_ludoteca.css" crc="4289348596" ref="ludoteca"/>
+    <file name="projetos.css" crc="4222420197" ref="projetos"/>
+    <file name="nomq_projetos.css" crc="448651685" ref="projetos"/>
+    <file name="sobre.css" crc="280895982" ref="sobre"/>
+    <file name="nomq_sobre.css" crc="87585816" ref="sobre"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="museutils.js" crc="4190794036" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="whatinput.js" crc="84559013" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="webpro.js" crc="488283310" ref="index:contato"/>
-    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
-    <file name="touchswipe.js" crc="4191887251" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="jquery.scrolleffects.js" crc="3837774061" ref="sobre:projetos:ludoteca"/>
-    <file name="form_check.php" crc="430210585" ref="contato"/>
-    <file name="form_throttle.php" crc="282343929" ref="contato"/>
-    <file name="form_process.php" crc="339897355" ref="contato"/>
-    <file name="form-u1206.php" crc="405044438" ref="contato"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="museutils.js" crc="531812214" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="webpro.js" crc="4156477058" ref="phone>index:phone>contato:tablet>index:tablet>contato:index:contato"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="jquery.scrolleffects.js" crc="3975164813" ref="phone>sobre:phone>projetos:tablet>sobre:tablet>projetos:tablet>ludoteca"/>
+    <file name="form_check.php" crc="373582055" ref="phone>contato:tablet>contato:contato"/>
+    <file name="form_throttle.php" crc="211381018" ref="phone>contato:tablet>contato:contato"/>
+    <file name="form_process.php" crc="6354943" ref="phone>contato:tablet>contato:contato"/>
+    <file name="form-u7105.php" crc="191074031" ref="phone>contato"/>
+    <file name="museredirect.js" crc="524071285" ref="tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="form-u3177.php" crc="3956158420" ref="tablet>contato"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:sobre:projetos:ludoteca:contato"/>
+    <file name="form-u1206.php" crc="3863240364" ref="contato"/>
   </folder>
   <folder name="images">
-    <file name="logo-svg.png" crc="182859095" seo="true" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="home-p.png" crc="535953232" ref="index"/>
-    <file name="padraograf.png" crc="337249623" ref="index"/>
-    <file name="padrao.png" crc="4082089281" seo="true" ref="index"/>
+    <file name="logo-svg.png" crc="182859095" seo="true" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="home-p.png" crc="535953232" ref="phone>index:tablet>index:tablet>sobre:index"/>
+    <file name="onb-1.jpg" crc="3885928657" seo="true" ref="phone>index:tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index:sobre:projetos:ludoteca:contato"/>
+    <file name="en5a0572.jpg" crc="109392281" seo="true" ref="phone>index:tablet>index"/>
+    <file name="11221903_864995513556369_5915586808500932422_n.jpg" crc="433605570" seo="true" ref="phone>index:tablet>index"/>
+    <file name="11800013_864994650223122_9161594960807718258_n.jpg" crc="3849217647" seo="true" ref="phone>index:tablet>index"/>
+    <file name="menino-littlebits.jpg" crc="4027298014" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="onb-2.jpg" crc="4256185428" seo="true" ref="phone>index:tablet>index"/>
+    <file name="onb-20.jpg" crc="4161822764" seo="true" ref="phone>index:tablet>index"/>
+    <file name="onb-21.jpg" crc="383800441" seo="true" ref="phone>index:tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="padraograf.png" crc="337249623" ref="phone>index:tablet>index:index"/>
+    <file name="padrao.png" crc="4082089281" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="politica.png" crc="278749878" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="software.png" crc="471341874" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="cultura.png" crc="182298134" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="git-icon1.png" crc="3765952124" ref="phone>index:tablet>index:index"/>
+    <file name="git-icon2.png" crc="3847855174" ref="phone>index:tablet>index:index"/>
+    <file name="face-icon1.png" crc="3929517291" ref="phone>index:tablet>index:index"/>
+    <file name="face-icon2.png" crc="8774263" ref="phone>index:tablet>index:index"/>
+    <file name="inta-icon1.png" crc="234114824" ref="phone>index:tablet>index:index"/>
+    <file name="insta-icon2.png" crc="100400353" ref="phone>index:tablet>index:index"/>
+    <file name="regua.png" crc="423166120" seo="true" ref="phone>index:phone>sobre:phone>projetos:phone>ludoteca:phone>contato:tablet>index:tablet>sobre:tablet>projetos:tablet>ludoteca:tablet>contato:index:sobre:projetos:ludoteca:contato"/>
+    <file name="lab1.jpg" crc="334681336" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="1.png" crc="4114396038" ref="phone>sobre:phone>projetos:tablet>sobre:tablet>projetos:sobre:projetos"/>
+    <file name="2.png" crc="309364090" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="3.png" crc="215410695" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="politica-u6810-fr.png" crc="363929257" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="software-u6812-fr.png" crc="86194732" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="cultura-u6814-fr.png" crc="382952787" ref="phone>sobre:tablet>sobre:sobre"/>
+    <file name="16693648915_c546addb03_k.jpg" crc="412231780" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="12.png" crc="4157304606" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="5.png" crc="3992869585" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="8.png" crc="3775765237" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="computer.svg" crc="3990386531" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="computer_poster_u1697.png" crc="174282566" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="9.png" crc="64956841" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="32.png" crc="4040727473" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="6.png" crc="3835602272" ref="phone>projetos:tablet>projetos:projetos"/>
+    <file name="7.png" crc="3969028794" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="comunism.png" crc="516170200" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="other.svg" crc="61408709" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="other_poster_u1559.png" crc="278037142" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="symbols.svg" crc="4279091687" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="symbols_poster_u1527.png" crc="232664532" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="silhouette.svg" crc="24004208" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="silhouette_poster_u1543.png" crc="501623835" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="13.png" crc="331573325" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="people.svg" crc="409733839" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="people_poster_u1535.png" crc="359869147" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="people-1.svg" crc="253911961" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="people-1_poster_u1551.png" crc="419968252" ref="phone>ludoteca:tablet>ludoteca:ludoteca"/>
+    <file name="image.jpg" crc="30740099" seo="true" ref="phone>contato:tablet>contato:contato"/>
+    <file name="u7110-17.png" crc="4271660243" ref="phone>contato"/>
+    <file name="u7110-17-r.png" crc="4023793380" ref="phone>contato"/>
+    <file name="u7110-17-m.png" crc="4023793380" ref="phone>contato"/>
+    <file name="u7110-17-fs.png" crc="134575184" ref="phone>contato"/>
+    <file name="local.jpg" crc="147103550" seo="true" ref="phone>contato:tablet>contato:contato"/>
+    <file name="telefone.jpg" crc="4084625229" seo="true" ref="phone>contato:tablet>contato:contato"/>
+    <file name="email.jpg" crc="4143635272" seo="true" ref="phone>contato:tablet>contato:contato"/>
+    <file name="foto2.jpg" crc="312703976" ref="tablet>ludoteca:ludoteca"/>
+    <file name="lab-u3266-fr.jpg" crc="3956273959" ref="tablet>contato"/>
+    <file name="u3188-17.png" crc="4271660243" ref="tablet>contato"/>
+    <file name="u3188-17-r.png" crc="4023793380" ref="tablet>contato"/>
+    <file name="u3188-17-m.png" crc="4023793380" ref="tablet>contato"/>
+    <file name="u3188-17-fs.png" crc="134575184" ref="tablet>contato"/>
     <file name="onb-1-crop-u298.jpg" crc="348143417" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="en5a0572-crop-u1585.jpg" crc="3927823477" ref="index"/>
+    <file name="11221903_864995513556369_5915586808500932422_n-crop-u1612.jpg" crc="362734978" ref="index"/>
+    <file name="11800013_864994650223122_9161594960807718258_n-crop-u1639.jpg" crc="3785362744" ref="index"/>
+    <file name="menino-littlebits-crop-u1666.jpg" crc="283424221" ref="index"/>
     <file name="onb-2-crop-u554.jpg" crc="530822479" ref="index"/>
     <file name="onb-20-crop-u581.jpg" crc="59532060" ref="index"/>
     <file name="onb-21-crop-u590.jpg" crc="368883130" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="politica.png" crc="278749878" seo="true" ref="index"/>
-    <file name="software.png" crc="471341874" seo="true" ref="index"/>
-    <file name="cultura.png" crc="182298134" seo="true" ref="index"/>
-    <file name="git-icon1.png" crc="3765952124" ref="index"/>
-    <file name="git-icon2.png" crc="3847855174" ref="index"/>
-    <file name="face-icon1.png" crc="3929517291" ref="index"/>
-    <file name="face-icon2.png" crc="8774263" ref="index"/>
-    <file name="inta-icon1.png" crc="234114824" ref="index"/>
-    <file name="insta-icon2.png" crc="100400353" ref="index"/>
-    <file name="regua.png" crc="423166120" seo="true" ref="index:sobre:projetos:ludoteca:contato"/>
-    <file name="lab1.jpg" crc="334681336" ref="sobre"/>
-    <file name="1.png" crc="4114396038" ref="sobre:projetos"/>
-    <file name="2.png" crc="309364090" ref="sobre"/>
-    <file name="3.png" crc="215410695" ref="sobre"/>
-    <file name="politica-u694-fr.png" crc="363929257" ref="sobre"/>
-    <file name="software-u693-fr.png" crc="86194732" ref="sobre"/>
-    <file name="cultura-u692-fr.png" crc="382952787" ref="sobre"/>
-    <file name="16693648915_c546addb03_k.jpg" crc="412231780" ref="projetos"/>
-    <file name="12.png" crc="4157304606" ref="projetos"/>
-    <file name="projetos-p.png" crc="3848868609" ref="projetos"/>
-    <file name="32.png" crc="4040727473" ref="projetos"/>
-    <file name="5.png" crc="3992869585" ref="projetos"/>
-    <file name="6.png" crc="3835602272" ref="projetos"/>
-    <file name="7.png" crc="3969028794" ref="projetos:ludoteca"/>
-    <file name="8.png" crc="3775765237" ref="projetos"/>
-    <file name="9.png" crc="64956841" ref="projetos"/>
-    <file name="foto2.jpg" crc="312703976" ref="ludoteca"/>
-    <file name="symbols.svg" crc="4279091687" ref="ludoteca"/>
-    <file name="symbols_poster_u1527.png" crc="232664532" ref="ludoteca"/>
-    <file name="people.svg" crc="409733839" ref="ludoteca"/>
-    <file name="people_poster_u1535.png" crc="359869147" ref="ludoteca"/>
-    <file name="comunism.png" crc="267749722" ref="ludoteca"/>
-    <file name="silhouette.svg" crc="24004208" ref="ludoteca"/>
-    <file name="silhouette_poster_u1543.png" crc="501623835" ref="ludoteca"/>
-    <file name="people-1.svg" crc="253911961" ref="ludoteca"/>
-    <file name="people-1_poster_u1551.png" crc="419968252" ref="ludoteca"/>
-    <file name="other.svg" crc="61408709" ref="ludoteca"/>
-    <file name="other_poster_u1559.png" crc="278037142" ref="ludoteca"/>
-    <file name="13.png" crc="331573325" ref="ludoteca"/>
+    <file name="onb-1-crop-u2982.jpg" crc="4247264482" ref="index"/>
+    <file name="en5a0572-crop-u15852.jpg" crc="420665507" ref="index"/>
+    <file name="11221903_864995513556369_5915586808500932422_n-crop-u16122.jpg" crc="3807906049" ref="index"/>
+    <file name="11800013_864994650223122_9161594960807718258_n-crop-u16392.jpg" crc="3886988967" ref="index"/>
+    <file name="onb-2-crop-u5542.jpg" crc="3925800513" ref="index"/>
+    <file name="onb-20-crop-u5812.jpg" crc="198407263" ref="index"/>
+    <file name="onb-21-crop-u5902.jpg" crc="4138460291" ref="index"/>
     <file name="lab.jpg" crc="3812568933" ref="contato"/>
-    <file name="image.jpg" crc="30740099" seo="true" ref="contato"/>
     <file name="u1221-17.png" crc="4271660243" ref="contato"/>
     <file name="u1221-17-r.png" crc="4023793380" ref="contato"/>
     <file name="u1221-17-m.png" crc="4023793380" ref="contato"/>
     <file name="u1221-17-fs.png" crc="134575184" ref="contato"/>
-    <file name="local.jpg" crc="147103550" seo="true" ref="contato"/>
-    <file name="telefone.jpg" crc="4084625229" seo="true" ref="contato"/>
-    <file name="email.jpg" crc="4143635272" seo="true" ref="contato"/>
-    <file name="en5a0572-crop-u1585.jpg" crc="507235453" ref="index"/>
-    <file name="11221903_864995513556369_5915586808500932422_n-crop-u1612.jpg" crc="362734978" ref="index"/>
-    <file name="11800013_864994650223122_9161594960807718258_n-crop-u1639.jpg" crc="3785362744" ref="index"/>
-    <file name="menino-littlebits.jpg" crc="4027298014" seo="true" ref="index"/>
+    <file name="u1221-172.png" crc="4271660243" ref="contato"/>
+    <file name="u1221-17-r2.png" crc="4023793380" ref="contato"/>
+    <file name="u1221-17-m2.png" crc="4023793380" ref="contato"/>
+    <file name="u1221-17-fs2.png" crc="134575184" ref="contato"/>
   </folder>
-  <file name="index.html" crc="89222569" seo="true" mt="1456790752295" redirect="true"/>
-  <file name="sobre.html" crc="4083254636" seo="true" mt="1456790776717" redirect="true"/>
-  <file name="projetos.html" crc="4145212595" seo="true" mt="1456788206801" redirect="true"/>
-  <file name="ludoteca.html" crc="3946932970" seo="true" mt="1456788206791" redirect="true"/>
-  <file name="contato.html" crc="328086031" seo="true" mt="1456788206786" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="282234051" ref="tablet>sobre:tablet>index:tablet>contato:tablet>ludoteca:tablet>projetos"/>
+      <file name="nomq_preview_master_a-mestre.css" crc="321525473" ref="tablet>sobre:tablet>index:tablet>contato:tablet>ludoteca:tablet>projetos"/>
+      <file name="sobre.css" crc="469282802" ref="tablet>sobre"/>
+      <file name="index.css" crc="3787806340" ref="tablet>index"/>
+      <file name="contato.css" crc="98052840" ref="tablet>contato"/>
+      <file name="nomq_contato.css" crc="321525473" ref="tablet>contato"/>
+      <file name="ludoteca.css" crc="3941366699" ref="tablet>ludoteca"/>
+      <file name="projetos.css" crc="6732127" ref="tablet>projetos"/>
+    </folder>
+    <file name="index.html" crc="3923088679" seo="true" mt="1458672586277" redirect="true"/>
+    <file name="sobre.html" crc="4270999678" seo="true" mt="1458760602887" redirect="true"/>
+    <file name="projetos.html" crc="4225868511" seo="true" mt="1458672586425" redirect="true"/>
+    <file name="ludoteca.html" crc="4002640577" seo="true" mt="1458672586507" redirect="true"/>
+    <file name="contato.html" crc="419993782" seo="true" mt="1458672586593" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="4157388759" ref="phone>sobre:phone>index:phone>contato:phone>ludoteca:phone>projetos"/>
+      <file name="nomq_preview_master_a-mestre.css" crc="321525473" ref="phone>sobre:phone>index:phone>contato:phone>ludoteca:phone>projetos"/>
+      <file name="sobre.css" crc="3872016752" ref="phone>sobre"/>
+      <file name="index.css" crc="290204009" ref="phone>index"/>
+      <file name="contato.css" crc="244713095" ref="phone>contato"/>
+      <file name="nomq_contato.css" crc="321525473" ref="phone>contato"/>
+      <file name="ludoteca.css" crc="3784229313" ref="phone>ludoteca"/>
+      <file name="projetos.css" crc="66450989" ref="phone>projetos"/>
+    </folder>
+    <file name="index.html" crc="62196600" seo="true" mt="1458675820354" redirect="true"/>
+    <file name="sobre.html" crc="41266920" seo="true" mt="1458760602889" redirect="true"/>
+    <file name="projetos.html" crc="184430390" seo="true" mt="1458676308538" redirect="true"/>
+    <file name="ludoteca.html" crc="309017331" seo="true" mt="1458676932365" redirect="true"/>
+    <file name="contato.html" crc="394074364" seo="true" mt="1458677236021" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4250987226" seo="true" mt="1458677487049" redirect="true"/>
+  <file name="sobre.html" crc="4220563689" seo="true" mt="1458760627416" redirect="true"/>
+  <file name="projetos.html" crc="182540112" seo="true" mt="1458760631640" redirect="true"/>
+  <file name="ludoteca.html" crc="390780839" seo="true" mt="1458760636283" redirect="true"/>
+  <file name="contato.html" crc="240770407" seo="true" mt="1458760641165" redirect="true"/>
 </manifest>

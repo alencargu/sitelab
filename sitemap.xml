@@ -2,98 +2,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://labhacker.org.br/images/logo-svg.png</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://labhacker.org.br/images/padrao.png</loc>
-    <lastmod>2016-02-29</lastmod>
+    <loc>http://labhacker.org.br/images/onb-1.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://labhacker.org.br/images/politica.png</loc>
-    <lastmod>2016-02-29</lastmod>
+    <loc>http://labhacker.org.br/images/en5a0572.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://labhacker.org.br/images/software.png</loc>
-    <lastmod>2016-02-29</lastmod>
+    <loc>http://labhacker.org.br/images/11221903_864995513556369_5915586808500932422_n.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://labhacker.org.br/images/cultura.png</loc>
-    <lastmod>2016-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://labhacker.org.br/images/regua.png</loc>
-    <lastmod>2016-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://labhacker.org.br/images/image.jpg</loc>
-    <lastmod>2016-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://labhacker.org.br/images/local.jpg</loc>
-    <lastmod>2016-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://labhacker.org.br/images/telefone.jpg</loc>
-    <lastmod>2016-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://labhacker.org.br/images/email.jpg</loc>
-    <lastmod>2016-02-29</lastmod>
+    <loc>http://labhacker.org.br/images/11800013_864994650223122_9161594960807718258_n.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://labhacker.org.br/images/menino-littlebits.jpg</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/onb-2.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/onb-20.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/onb-21.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/padrao.png</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/politica.png</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/software.png</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/cultura.png</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/regua.png</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/image.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/local.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/telefone.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://labhacker.org.br/images/email.jpg</loc>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://labhacker.org.br/index.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://labhacker.org.br/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://labhacker.org.br/tablet/index.html"/>
   </url>
   <url>
     <loc>http://labhacker.org.br/sobre.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://labhacker.org.br/phone/sobre.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://labhacker.org.br/tablet/sobre.html"/>
   </url>
   <url>
     <loc>http://labhacker.org.br/projetos.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://labhacker.org.br/phone/projetos.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://labhacker.org.br/tablet/projetos.html"/>
   </url>
   <url>
     <loc>http://labhacker.org.br/ludoteca.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://labhacker.org.br/phone/ludoteca.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://labhacker.org.br/tablet/ludoteca.html"/>
   </url>
   <url>
     <loc>http://labhacker.org.br/contato.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://labhacker.org.br/phone/contato.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://labhacker.org.br/tablet/contato.html"/>
   </url>
 </urlset>
