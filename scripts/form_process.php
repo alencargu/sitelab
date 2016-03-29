@@ -112,7 +112,7 @@ function email_form_submission($form) {
 	$message = get_email_body($subject, $form['heading'], $form['fields'], $form['resources']);
 	$headers = get_email_headers($to, $form_email);	
 
-	$sent = @mail($to, $subject, $message, $headers);
+	$sent = mail($to, $subject, $message, $headers, "-r". "lab@labhacker.org.br");
 	
 	if(!$sent)
 		die(get_form_error_response($form['resources']['failed_to_send_email']));
